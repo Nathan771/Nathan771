@@ -18,7 +18,7 @@ class NathanRichardson:
     focus      = ["Offensive Security", "Bug Bounty", "Web Application Pentesting"]
     currently  = "Completing PortSwigger Web Security Academy labs"
     passion    = "Breaking things ethically to understand how to protect them"
-    next_goal  = "First Bug Bounty report on HackerOne / Bugcrowd"
+    next_goal  = "A role in Cybersec and my first Bug Bounty report :)"
 ```
 
 > *"The best defense is understanding how to attack."*
@@ -81,9 +81,9 @@ Técnicas exploradas no PortSwigger Web Security Academy:
 
 ---
 
-## 🛠️ Open Source Tools
+#🛠️ Open Source Tools
 
-### 🔴 Blind SQLi Extractor
+#🔴 Blind SQLi Extractor
 Scripts em Python para automação de extração de credenciais via Blind SQL Injection.
 Suporta múltiplos bancos de dados e tipos de oráculo.
 
@@ -107,16 +107,6 @@ Suporta múltiplos bancos de dados e tipos de oráculo.
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dark&title_color=ff4444&icon_color=ff4444&text_color=ffffff&bg_color=0d1117&border_color=ff4444"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=dark&title_color=ff4444&text_color=ffffff&bg_color=0d1117&border_color=ff4444"/>
-
-</div>
 
 ---
 
