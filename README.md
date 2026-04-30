@@ -102,8 +102,8 @@ Suporta múltiplos bancos de dados e tipos de oráculo.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan%20Richardson-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-NathanRichardson-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan%20Richardson-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-richardson-ávila-da-conceição-b581bb210)
+[![GitHub](https://img.shields.io/badge/GitHub-NathanRichardson-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nathan771)
 
 </div>
 
